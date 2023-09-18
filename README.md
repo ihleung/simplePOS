@@ -2,4 +2,4 @@
 
 ## Description
 
-Object Oriented Programming Final Project from Seneca in C++
+Object Oriented Programming Final Project from Seneca College in C++
