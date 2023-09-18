@@ -2,5 +2,4 @@
 
 ## Description
 
-Object Oriented Programming Project at Seneca in C++
-okay
+Object Oriented Programming Project from Seneca in C++
